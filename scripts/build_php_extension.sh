@@ -133,4 +133,4 @@ common redis
 cd ..
 
 yum clean all 
-
+rm -rf /usr/local/src/*
